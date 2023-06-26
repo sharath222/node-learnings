@@ -36,5 +36,4 @@ const requesthandler = (request, response) => {
 
 module.exports = {
     handler: requesthandler,
-    text: 'sharath text'
 };
